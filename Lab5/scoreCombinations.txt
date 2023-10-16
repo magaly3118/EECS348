@@ -1,0 +1,29 @@
+Score: 5
+Possible combinations of scoring plays:
+	0 TD + 2pt, 0 TD + FG, 0 TD, 1 3pt FG, 1 Safety
+Score: 7
+Possible combinations of scoring plays:
+	0 TD + 2pt, 0 TD + FG, 0 TD, 1 3pt FG, 2 Safety
+	0 TD + 2pt, 1 TD + FG, 0 TD, 0 3pt FG, 0 Safety
+Score: 8
+Possible combinations of scoring plays:
+	0 TD + 2pt, 0 TD + FG, 0 TD, 0 3pt FG, 4 Safety
+	0 TD + 2pt, 0 TD + FG, 0 TD, 2 3pt FG, 1 Safety
+	0 TD + 2pt, 0 TD + FG, 1 TD, 0 3pt FG, 1 Safety
+	1 TD + 2pt, 0 TD + FG, 0 TD, 0 3pt FG, 0 Safety
+Score: 11
+Possible combinations of scoring plays:
+	0 TD + 2pt, 0 TD + FG, 0 TD, 1 3pt FG, 4 Safety
+	0 TD + 2pt, 0 TD + FG, 0 TD, 3 3pt FG, 1 Safety
+	0 TD + 2pt, 0 TD + FG, 1 TD, 1 3pt FG, 1 Safety
+	0 TD + 2pt, 1 TD + FG, 0 TD, 0 3pt FG, 2 Safety
+	1 TD + 2pt, 0 TD + FG, 0 TD, 1 3pt FG, 0 Safety
+Score: 9
+Possible combinations of scoring plays:
+	0 TD + 2pt, 0 TD + FG, 0 TD, 1 3pt FG, 3 Safety
+	0 TD + 2pt, 0 TD + FG, 0 TD, 3 3pt FG, 0 Safety
+	0 TD + 2pt, 0 TD + FG, 1 TD, 1 3pt FG, 0 Safety
+	0 TD + 2pt, 1 TD + FG, 0 TD, 0 3pt FG, 1 Safety
+Score: 3
+Possible combinations of scoring plays:
+	0 TD + 2pt, 0 TD + FG, 0 TD, 1 3pt FG, 0 Safety
