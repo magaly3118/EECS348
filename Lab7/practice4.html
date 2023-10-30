@@ -1,0 +1,32 @@
+<!--
+    Author: Magaly Camacho
+	Creation Date: 10/27/2023
+	Lab: 7
+	Description: Web page with a php script to create a multiplication table
+-->
+
+<!doctype html> 
+
+<html>
+    <head> 
+        <meta charset="utf-8">
+        <title>EECS 348 Lab 7 Practice 4</title>
+        <link rel="stylesheet" type="text/css" href="sources/style.css"/>
+    </head> 
+
+    <body> 
+        <h1 class="top">EECS 348 LAB 7 Practice 4</h1>
+
+        <form action="practice4.php" class="bottom" method="POST">
+            <label for="num">Size of the multiplication table: </label> <input name="num" type="number" min="1"><br>
+
+            <button type="submit">Submit</button>
+        </form><br>
+
+        <button type="button" onclick="index()">Go to index</button>
+    </body>
+
+    <script>
+        function index() {window.location.href = "index.html"};
+    </script>
+</html> 
