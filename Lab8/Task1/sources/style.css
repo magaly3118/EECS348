@@ -1,0 +1,30 @@
+h1 {
+    font-size: 35px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+body {
+    background-color: darkcyan;
+    width:auto;
+    height:auto;
+    padding: 1em;
+}
+
+.top {
+    color: white;
+}
+
+.bottom {
+    background-color: aliceblue;
+    width:auto;
+    height:auto;
+    padding: 1em;
+}
+
+.sections {
+    font-size: 20px;
+    color: darkcyan;
+}

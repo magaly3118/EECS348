@@ -1,0 +1,45 @@
+<!--
+    Author: Magaly Camacho
+	Creation Date: 11/1/2023
+	Lab: 8
+	Description: Web page with a paragraph for which you can control background and border color, as well as the width of the border.
+-->
+
+<!doctype html> 
+
+<html>
+    <head> 
+        <meta charset="utf-8">
+        <title>EECS 348 Lab 8 Practice 2</title>
+        <script src="sources/practice2.js" type="text/JavaScript"></script>
+        <link rel="stylesheet" type="text/css" href="sources/style.css"/>
+    </head> 
+
+    <body> 
+        <h1 class="top">EECS 348 LAB 8 Practice 2</h1>
+
+        <div class="bottom">
+            <p style="border-style: solid;">
+                Paragraph to be altered.
+            </p>
+    
+            <br>
+    
+            <form>
+                Border R (0-255): <input id="BorderR" type="number" min="0" max="255" size="100"><br>
+                Border G (0-255): <input id="BorderG" type="number" min="0" max="255" size="100"><br>
+                Border B (0-255): <input id="BorderB" type="number" min="0" max="255" size="100"><br>
+    
+                Border Width: <input id="BorderWidth" type="number" min="1" size="100"><br>
+    
+                Background R (0-255): <input id="BackgroundR" type="number" min="0" max="255" size="100"><br>
+                Background G (0-255): <input id="BackgroundG" type="number" min="0" max="255" size="100"><br>
+                Background B (0-255): <input id="BackgroundB" type="number" min="0" max="255" size="100"><br>
+    
+                <button type="button" onclick="stylize()">Make Changes!</button>
+            </form>
+        </div><br>
+
+        <button type="button" onclick="index()">Go to index</button>
+    </body>
+</html> 
