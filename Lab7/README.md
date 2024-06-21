@@ -1,9 +1,9 @@
-# Lab 7 : HTML, CSS, JavaScript and PHP
+# Lab 7: HTML, CSS, JavaScript and PHP
 
 A website comprised of five practice assignments: 
 - [An Index Page](index.html)
 - [An HTML Profile](practice1.html)
-- [CSS Font Controlled Paragraph](practice2.html)
+- [A CSS Font Controlled Paragraph](practice2.html)
 - [A JavaScript Password Verifier](practice3.html)
 - [A PHP Multiplication Table](practice4.html)
 
