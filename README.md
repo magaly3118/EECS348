@@ -13,7 +13,7 @@
 | [8](Lab8/) | Docker |
 | 9 | Databases and SQL |
 | 10 | Software Testing |
-| 11 | Regular Expressions | 
+| [11](Lab11/) | Regular Expressions | 
 | [EC3](ECLab3/) | C++ Polymorphic Functions (Extra Credit) | 
 
 ---
