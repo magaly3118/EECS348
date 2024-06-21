@@ -19,4 +19,5 @@
 ---
 
 ## Project
-A C++ Artihmetic Expression Evaluator with basic support for parenthesis, addition, subtraction, multiplication, division and exponentiation. Developed with Hannah Smith, Christina Sorenson, Maddie Watson and Teja Nimmagadda.
+A [C++ Artihmetic Expression Evaluator](Project/) with basic support for parenthesis, addition, subtraction, multiplication, division and exponentiation. 
+Developed with Hannah Smith, Christina Sorenson, Maddie Watson and Teja Nimmagadda.
