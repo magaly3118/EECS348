@@ -1,4 +1,4 @@
-# EECS 348 Software Engineering
+# EECS 348: Software Engineering
 
 ## Labs
 | Lab | Description |
