@@ -1,5 +1,4 @@
-# Extra Credit Lab 3
-## C++ Polymorphic Functions
+# Extra Credit Lab 3: C++ Polymorphic Functions
 
 ### Problem Description
 A simple banking system that utilizes inheritance and operator overloading to handle transactions between different types of bank accounts.
